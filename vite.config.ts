@@ -6,8 +6,6 @@ export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, process.cwd(), "");
   return {
     build: { manifest: true, outDir: "./dist" },
-    base: "/",
-    root: "./src",
     define: {
       "process.env": env,
     },
