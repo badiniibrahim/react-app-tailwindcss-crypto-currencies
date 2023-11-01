@@ -39,6 +39,18 @@ https://rapidapi.com/hub
 - State management with redux toolkit
 - RapidApi
 
+## :running: Run Locally
+
+Clone the project
+
+```bash
+  https://github.com/badiniibrahim/react-app-tailwindcss-crypto-currencies.git
+```
+## Installation
+
+```bash
+$ yarn install
+```
   
 # Screenshot
 ![alt text](1.png)
