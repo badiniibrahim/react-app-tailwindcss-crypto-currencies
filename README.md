@@ -18,6 +18,9 @@ This repository is dedicated to a React application where I integrated Tailwind 
 ![GitHub last commit](https://img.shields.io/github/last-commit/badiniibrahim/react-app-tailwindcss-crypto-currencies)
 ![Github Repo Size](https://img.shields.io/github/repo-size/badiniibrahim/react-app-tailwindcss-crypto-currencies)
 
+# App link
+https://react-app-tailwindcss-crypto-currencies-na9dhul9z.vercel.app/
+
 ## 🔐 Setup .env file
 REACT_APP_RAPIDAPI_KEY 
 
