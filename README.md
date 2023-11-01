@@ -36,7 +36,7 @@ https://rapidapi.com/hub
 - React js
 - Beautiful layouts with TailwindCSS
 - Create reusable components
-- State management with redux toolkit
+- RTK Query (Redux Toolkit Query)
 - RapidApi
 
 ## :running: Run Locally
